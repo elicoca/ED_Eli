@@ -104,4 +104,9 @@ public class deposito {
         capacidad = pi * (diametro/2) * (diametro/2) * altura;
         return capacidad;
     }    
+    
+    //Codigo nuevo añadido para Ejercicio de Control de Versiones con GitHub
+    public void Mensaje(){
+        System.out.println("Esto es solo para añadir algo al código y que haya una modificación");
+    }
 }
